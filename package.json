@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@tanstack/react-query": "^5.85.0",
+    "@rainbow-me/rainbowkit": "^2.2.8",
+    "@tanstack/react-query": "^5.85.3",
+    "express": "^5.1.0",
     "next": "15.4.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
